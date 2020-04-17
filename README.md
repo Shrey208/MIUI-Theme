@@ -1,2 +1,3 @@
 # MIUI-Theme
-Lock Screen Wallpaper Letter S with Apps Shortcut
+Lock Screen Theme
+Letter S with Apps Shortcut
